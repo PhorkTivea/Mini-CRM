@@ -3525,7 +3525,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:^3.4.2":
+"prettier@npm:^3.5.3":
   version: 3.5.3
   resolution: "prettier@npm:3.5.3"
   bin:
@@ -3762,7 +3762,7 @@ __metadata:
     laravel-vite-plugin: "npm:^1.0"
     lightningcss-linux-x64-gnu: "npm:^1.29.1"
     lucide-vue-next: "npm:^0.468.0"
-    prettier: "npm:^3.4.2"
+    prettier: "npm:^3.5.3"
     prettier-plugin-organize-imports: "npm:^4.1.0"
     prettier-plugin-tailwindcss: "npm:^0.6.11"
     reka-ui: "npm:^2.2.0"
