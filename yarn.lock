@@ -3770,7 +3770,7 @@ __metadata:
     tailwindcss: "npm:^4.1.1"
     tw-animate-css: "npm:^1.2.5"
     typescript: "npm:^5.2.2"
-    typescript-eslint: "npm:^8.23.0"
+    typescript-eslint: "npm:^8.32.0"
     vite: "npm:^6.2.0"
     vue: "npm:^3.5.13"
     vue-tsc: "npm:^2.2.4"
@@ -4198,7 +4198,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript-eslint@npm:^8.23.0, typescript-eslint@npm:^8.26.0":
+"typescript-eslint@npm:^8.26.0, typescript-eslint@npm:^8.32.0":
   version: 8.32.0
   resolution: "typescript-eslint@npm:8.32.0"
   dependencies:
