@@ -3773,7 +3773,7 @@ __metadata:
     typescript-eslint: "npm:^8.23.0"
     vite: "npm:^6.2.0"
     vue: "npm:^3.5.13"
-    vue-tsc: "npm:^2.2.4"
+    vue-tsc: "npm:^2.2.10"
     ziggy-js: "npm:^2.4.2"
   dependenciesMeta:
     "@rollup/rollup-linux-x64-gnu":
@@ -4409,7 +4409,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vue-tsc@npm:^2.2.4":
+"vue-tsc@npm:^2.2.10":
   version: 2.2.10
   resolution: "vue-tsc@npm:2.2.10"
   dependencies:
