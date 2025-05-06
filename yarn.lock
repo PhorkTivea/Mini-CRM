@@ -672,13 +672,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rollup/rollup-linux-x64-gnu@npm:4.9.5":
-  version: 4.9.5
-  resolution: "@rollup/rollup-linux-x64-gnu@npm:4.9.5"
-  conditions: os=linux & cpu=x64 & libc=glibc
-  languageName: node
-  linkType: hard
-
 "@rollup/rollup-linux-x64-musl@npm:4.40.2":
   version: 4.40.2
   resolution: "@rollup/rollup-linux-x64-musl@npm:4.40.2"
@@ -3746,7 +3739,7 @@ __metadata:
   dependencies:
     "@eslint/js": "npm:^9.19.0"
     "@inertiajs/vue3": "npm:^2.0.0"
-    "@rollup/rollup-linux-x64-gnu": "npm:4.9.5"
+    "@rollup/rollup-linux-x64-gnu": "npm:4.40.2"
     "@tailwindcss/oxide-linux-x64-gnu": "npm:^4.0.1"
     "@tailwindcss/vite": "npm:^4.1.1"
     "@types/node": "npm:^22.13.5"
