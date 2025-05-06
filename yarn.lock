@@ -918,7 +918,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^22.13.5":
+"@types/node@npm:^22.15.12":
   version: 22.15.12
   resolution: "@types/node@npm:22.15.12"
   dependencies:
@@ -3749,7 +3749,7 @@ __metadata:
     "@rollup/rollup-linux-x64-gnu": "npm:4.9.5"
     "@tailwindcss/oxide-linux-x64-gnu": "npm:^4.0.1"
     "@tailwindcss/vite": "npm:^4.1.1"
-    "@types/node": "npm:^22.13.5"
+    "@types/node": "npm:^22.15.12"
     "@vitejs/plugin-vue": "npm:^5.2.1"
     "@vue/eslint-config-typescript": "npm:^14.3.0"
     "@vueuse/core": "npm:^13.1.0"
