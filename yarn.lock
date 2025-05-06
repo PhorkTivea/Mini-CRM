@@ -2053,7 +2053,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint@npm:^9.17.0":
+"eslint@npm:^9.26.0":
   version: 9.26.0
   resolution: "eslint@npm:9.26.0"
   dependencies:
@@ -3756,7 +3756,7 @@ __metadata:
     class-variance-authority: "npm:^0.7.1"
     clsx: "npm:^2.1.1"
     concurrently: "npm:^9.0.1"
-    eslint: "npm:^9.17.0"
+    eslint: "npm:^9.26.0"
     eslint-config-prettier: "npm:^10.0.1"
     eslint-plugin-vue: "npm:^9.32.0"
     laravel-vite-plugin: "npm:^1.0"
