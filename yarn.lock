@@ -1990,7 +1990,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-prettier@npm:^10.0.1":
+"eslint-config-prettier@npm:^10.1.2":
   version: 10.1.2
   resolution: "eslint-config-prettier@npm:10.1.2"
   peerDependencies:
@@ -3757,7 +3757,7 @@ __metadata:
     clsx: "npm:^2.1.1"
     concurrently: "npm:^9.0.1"
     eslint: "npm:^9.17.0"
-    eslint-config-prettier: "npm:^10.0.1"
+    eslint-config-prettier: "npm:^10.1.2"
     eslint-plugin-vue: "npm:^9.32.0"
     laravel-vite-plugin: "npm:^1.0"
     lightningcss-linux-x64-gnu: "npm:^1.29.1"
