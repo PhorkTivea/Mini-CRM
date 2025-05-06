@@ -29,7 +29,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@eslint/js", "npm:9.26.0"],\
           ["@inertiajs/vue3", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.0.8"],\
-          ["@rollup/rollup-linux-x64-gnu", "npm:4.9.5"],\
+          ["@rollup/rollup-linux-x64-gnu", "npm:4.40.2"],\
           ["@tailwindcss/oxide-linux-x64-gnu", "npm:4.1.5"],\
           ["@tailwindcss/vite", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.1.5"],\
           ["@types/node", "npm:22.15.12"],\
@@ -888,13 +888,6 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/unplugged/@rollup-rollup-linux-x64-gnu-npm-4.40.2-e051fe548d/node_modules/@rollup/rollup-linux-x64-gnu/",\
         "packageDependencies": [\
           ["@rollup/rollup-linux-x64-gnu", "npm:4.40.2"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
-      ["npm:4.9.5", {\
-        "packageLocation": "./.yarn/unplugged/@rollup-rollup-linux-x64-gnu-npm-4.9.5-dc241948bc/node_modules/@rollup/rollup-linux-x64-gnu/",\
-        "packageDependencies": [\
-          ["@rollup/rollup-linux-x64-gnu", "npm:4.9.5"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4532,7 +4525,7 @@ const RAW_RUNTIME_STATE =
           ["root-workspace-0b6124", "workspace:."],\
           ["@eslint/js", "npm:9.26.0"],\
           ["@inertiajs/vue3", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.0.8"],\
-          ["@rollup/rollup-linux-x64-gnu", "npm:4.9.5"],\
+          ["@rollup/rollup-linux-x64-gnu", "npm:4.40.2"],\
           ["@tailwindcss/oxide-linux-x64-gnu", "npm:4.1.5"],\
           ["@tailwindcss/vite", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.1.5"],\
           ["@types/node", "npm:22.15.12"],\
