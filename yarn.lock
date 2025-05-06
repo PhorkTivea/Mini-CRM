@@ -415,7 +415,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@inertiajs/vue3@npm:^2.0.0":
+"@inertiajs/vue3@npm:^2.0.8":
   version: 2.0.8
   resolution: "@inertiajs/vue3@npm:2.0.8"
   dependencies:
@@ -3745,7 +3745,7 @@ __metadata:
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
     "@eslint/js": "npm:^9.19.0"
-    "@inertiajs/vue3": "npm:^2.0.0"
+    "@inertiajs/vue3": "npm:^2.0.8"
     "@rollup/rollup-linux-x64-gnu": "npm:4.9.5"
     "@tailwindcss/oxide-linux-x64-gnu": "npm:^4.0.1"
     "@tailwindcss/vite": "npm:^4.1.1"
