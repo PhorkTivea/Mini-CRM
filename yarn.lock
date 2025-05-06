@@ -1150,7 +1150,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vue/eslint-config-typescript@npm:^14.3.0":
+"@vue/eslint-config-typescript@npm:^14.5.0":
   version: 14.5.0
   resolution: "@vue/eslint-config-typescript@npm:14.5.0"
   dependencies:
@@ -3751,7 +3751,7 @@ __metadata:
     "@tailwindcss/vite": "npm:^4.1.1"
     "@types/node": "npm:^22.13.5"
     "@vitejs/plugin-vue": "npm:^5.2.1"
-    "@vue/eslint-config-typescript": "npm:^14.3.0"
+    "@vue/eslint-config-typescript": "npm:^14.5.0"
     "@vueuse/core": "npm:^13.1.0"
     class-variance-authority: "npm:^0.7.1"
     clsx: "npm:^2.1.1"
