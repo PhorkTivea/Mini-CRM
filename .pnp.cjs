@@ -44,7 +44,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-plugin-vue", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:9.33.0"],\
           ["laravel-vite-plugin", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:1.2.0"],\
           ["lightningcss-linux-x64-gnu", "npm:1.29.3"],\
-          ["lucide-vue-next", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:0.468.0"],\
+          ["lucide-vue-next", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:0.507.0"],\
           ["prettier", "npm:3.5.3"],\
           ["prettier-plugin-organize-imports", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.1.0"],\
           ["prettier-plugin-tailwindcss", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:0.6.11"],\
@@ -3649,17 +3649,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["lucide-vue-next", [\
-      ["npm:0.468.0", {\
-        "packageLocation": "../../.yarn/berry/cache/lucide-vue-next-npm-0.468.0-d68b2b05ff-10c0.zip/node_modules/lucide-vue-next/",\
+      ["npm:0.507.0", {\
+        "packageLocation": "../../.yarn/berry/cache/lucide-vue-next-npm-0.507.0-7273a901b2-10c0.zip/node_modules/lucide-vue-next/",\
         "packageDependencies": [\
-          ["lucide-vue-next", "npm:0.468.0"]\
+          ["lucide-vue-next", "npm:0.507.0"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:0.468.0", {\
-        "packageLocation": "./.yarn/__virtual__/lucide-vue-next-virtual-8d15c8b13b/3/.yarn/berry/cache/lucide-vue-next-npm-0.468.0-d68b2b05ff-10c0.zip/node_modules/lucide-vue-next/",\
+      ["virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:0.507.0", {\
+        "packageLocation": "./.yarn/__virtual__/lucide-vue-next-virtual-2753068a06/3/.yarn/berry/cache/lucide-vue-next-npm-0.507.0-7273a901b2-10c0.zip/node_modules/lucide-vue-next/",\
         "packageDependencies": [\
-          ["lucide-vue-next", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:0.468.0"],\
+          ["lucide-vue-next", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:0.507.0"],\
           ["@types/vue", null],\
           ["vue", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:3.5.13"]\
         ],\
@@ -4547,7 +4547,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-plugin-vue", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:9.33.0"],\
           ["laravel-vite-plugin", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:1.2.0"],\
           ["lightningcss-linux-x64-gnu", "npm:1.29.3"],\
-          ["lucide-vue-next", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:0.468.0"],\
+          ["lucide-vue-next", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:0.507.0"],\
           ["prettier", "npm:3.5.3"],\
           ["prettier-plugin-organize-imports", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.1.0"],\
           ["prettier-plugin-tailwindcss", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:0.6.11"],\
