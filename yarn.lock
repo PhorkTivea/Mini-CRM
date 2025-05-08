@@ -2971,12 +2971,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lucide-vue-next@npm:^0.468.0":
-  version: 0.468.0
-  resolution: "lucide-vue-next@npm:0.468.0"
+"lucide-vue-next@npm:^0.508.0":
+  version: 0.508.0
+  resolution: "lucide-vue-next@npm:0.508.0"
   peerDependencies:
     vue: ">=3.0.1"
-  checksum: 10c0/e620e3f1a4e38be41c5dff4c6bc333c4c01e23f9ab36c76d92f9c8dce868873622cbd3c4c6d68fa4d501bab314897a0af596af920c98230a29a0cfdc99a01505
+  checksum: 10c0/e3803a3bc472025fdef1c979a88be40b9deacdd90cb5437850a09b3706a959a816b3513be2100d9c0332a2ca0de3612a77eea09465baca1031b75c8f39482460
   languageName: node
   linkType: hard
 
@@ -3761,7 +3761,7 @@ __metadata:
     eslint-plugin-vue: "npm:^9.32.0"
     laravel-vite-plugin: "npm:^1.0"
     lightningcss-linux-x64-gnu: "npm:^1.29.1"
-    lucide-vue-next: "npm:^0.468.0"
+    lucide-vue-next: "npm:^0.508.0"
     prettier: "npm:^3.4.2"
     prettier-plugin-organize-imports: "npm:^4.1.0"
     prettier-plugin-tailwindcss: "npm:^0.6.11"
