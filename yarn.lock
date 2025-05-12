@@ -2873,9 +2873,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lightningcss-linux-x64-gnu@npm:^1.29.1":
-  version: 1.29.3
-  resolution: "lightningcss-linux-x64-gnu@npm:1.29.3"
+"lightningcss-linux-x64-gnu@npm:^1.30.0":
+  version: 1.30.0
+  resolution: "lightningcss-linux-x64-gnu@npm:1.30.0"
   conditions: os=linux & cpu=x64 & libc=glibc
   languageName: node
   linkType: hard
@@ -3760,7 +3760,7 @@ __metadata:
     eslint-config-prettier: "npm:^10.0.1"
     eslint-plugin-vue: "npm:^9.32.0"
     laravel-vite-plugin: "npm:^1.0"
-    lightningcss-linux-x64-gnu: "npm:^1.29.1"
+    lightningcss-linux-x64-gnu: "npm:^1.30.0"
     lucide-vue-next: "npm:^0.468.0"
     prettier: "npm:^3.4.2"
     prettier-plugin-organize-imports: "npm:^4.1.0"
