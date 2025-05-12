@@ -33,7 +33,7 @@ const RAW_RUNTIME_STATE =
           ["@tailwindcss/oxide-linux-x64-gnu", "npm:4.1.5"],\
           ["@tailwindcss/vite", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.1.5"],\
           ["@types/node", "npm:22.15.12"],\
-          ["@vitejs/plugin-vue", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:5.2.3"],\
+          ["@vitejs/plugin-vue", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:5.2.4"],\
           ["@vue/eslint-config-typescript", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:14.5.0"],\
           ["@vueuse/core", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:13.1.0"],\
           ["class-variance-authority", "npm:0.7.1"],\
@@ -1398,17 +1398,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@vitejs/plugin-vue", [\
-      ["npm:5.2.3", {\
-        "packageLocation": "../../.yarn/berry/cache/@vitejs-plugin-vue-npm-5.2.3-cdfec94325-10c0.zip/node_modules/@vitejs/plugin-vue/",\
+      ["npm:5.2.4", {\
+        "packageLocation": "../../.yarn/berry/cache/@vitejs-plugin-vue-npm-5.2.4-157bde6453-10c0.zip/node_modules/@vitejs/plugin-vue/",\
         "packageDependencies": [\
-          ["@vitejs/plugin-vue", "npm:5.2.3"]\
+          ["@vitejs/plugin-vue", "npm:5.2.4"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:5.2.3", {\
-        "packageLocation": "./.yarn/__virtual__/@vitejs-plugin-vue-virtual-dca44b2000/3/.yarn/berry/cache/@vitejs-plugin-vue-npm-5.2.3-cdfec94325-10c0.zip/node_modules/@vitejs/plugin-vue/",\
+      ["virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:5.2.4", {\
+        "packageLocation": "./.yarn/__virtual__/@vitejs-plugin-vue-virtual-01967f7cf1/3/.yarn/berry/cache/@vitejs-plugin-vue-npm-5.2.4-157bde6453-10c0.zip/node_modules/@vitejs/plugin-vue/",\
         "packageDependencies": [\
-          ["@vitejs/plugin-vue", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:5.2.3"],\
+          ["@vitejs/plugin-vue", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:5.2.4"],\
           ["@types/vite", null],\
           ["@types/vue", null],\
           ["vite", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.3.5"],\
@@ -4536,7 +4536,7 @@ const RAW_RUNTIME_STATE =
           ["@tailwindcss/oxide-linux-x64-gnu", "npm:4.1.5"],\
           ["@tailwindcss/vite", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.1.5"],\
           ["@types/node", "npm:22.15.12"],\
-          ["@vitejs/plugin-vue", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:5.2.3"],\
+          ["@vitejs/plugin-vue", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:5.2.4"],\
           ["@vue/eslint-config-typescript", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:14.5.0"],\
           ["@vueuse/core", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:13.1.0"],\
           ["class-variance-authority", "npm:0.7.1"],\
