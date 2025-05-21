@@ -28,7 +28,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@eslint/js", "npm:9.26.0"],\
-          ["@inertiajs/vue3", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.0.8"],\
+          ["@inertiajs/vue3", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.0.11"],\
           ["@rollup/rollup-linux-x64-gnu", "npm:4.9.5"],\
           ["@tailwindcss/oxide-linux-x64-gnu", "npm:4.1.5"],\
           ["@tailwindcss/vite", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.1.5"],\
@@ -555,10 +555,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@inertiajs/core", [\
-      ["npm:2.0.8", {\
-        "packageLocation": "../../.yarn/berry/cache/@inertiajs-core-npm-2.0.8-80380c42e5-10c0.zip/node_modules/@inertiajs/core/",\
+      ["npm:2.0.11", {\
+        "packageLocation": "../../.yarn/berry/cache/@inertiajs-core-npm-2.0.11-dece74a9ba-10c0.zip/node_modules/@inertiajs/core/",\
         "packageDependencies": [\
-          ["@inertiajs/core", "npm:2.0.8"],\
+          ["@inertiajs/core", "npm:2.0.11"],\
           ["axios", "npm:1.9.0"],\
           ["es-toolkit", "npm:1.37.2"],\
           ["qs", "npm:6.14.0"]\
@@ -567,18 +567,18 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@inertiajs/vue3", [\
-      ["npm:2.0.8", {\
-        "packageLocation": "../../.yarn/berry/cache/@inertiajs-vue3-npm-2.0.8-705859e189-10c0.zip/node_modules/@inertiajs/vue3/",\
+      ["npm:2.0.11", {\
+        "packageLocation": "../../.yarn/berry/cache/@inertiajs-vue3-npm-2.0.11-c2e5810064-10c0.zip/node_modules/@inertiajs/vue3/",\
         "packageDependencies": [\
-          ["@inertiajs/vue3", "npm:2.0.8"]\
+          ["@inertiajs/vue3", "npm:2.0.11"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.0.8", {\
-        "packageLocation": "./.yarn/__virtual__/@inertiajs-vue3-virtual-0888771e5a/3/.yarn/berry/cache/@inertiajs-vue3-npm-2.0.8-705859e189-10c0.zip/node_modules/@inertiajs/vue3/",\
+      ["virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.0.11", {\
+        "packageLocation": "./.yarn/__virtual__/@inertiajs-vue3-virtual-938ae05465/3/.yarn/berry/cache/@inertiajs-vue3-npm-2.0.11-c2e5810064-10c0.zip/node_modules/@inertiajs/vue3/",\
         "packageDependencies": [\
-          ["@inertiajs/vue3", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.0.8"],\
-          ["@inertiajs/core", "npm:2.0.8"],\
+          ["@inertiajs/vue3", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.0.11"],\
+          ["@inertiajs/core", "npm:2.0.11"],\
           ["@types/vue", null],\
           ["es-toolkit", "npm:1.37.2"],\
           ["vue", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:3.5.13"]\
@@ -4531,7 +4531,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["root-workspace-0b6124", "workspace:."],\
           ["@eslint/js", "npm:9.26.0"],\
-          ["@inertiajs/vue3", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.0.8"],\
+          ["@inertiajs/vue3", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.0.11"],\
           ["@rollup/rollup-linux-x64-gnu", "npm:4.9.5"],\
           ["@tailwindcss/oxide-linux-x64-gnu", "npm:4.1.5"],\
           ["@tailwindcss/vite", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.1.5"],\
