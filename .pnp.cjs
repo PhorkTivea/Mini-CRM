@@ -27,7 +27,7 @@ const RAW_RUNTIME_STATE =
       [null, {\
         "packageLocation": "./",\
         "packageDependencies": [\
-          ["@eslint/js", "npm:9.26.0"],\
+          ["@eslint/js", "npm:9.27.0"],\
           ["@inertiajs/vue3", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.0.8"],\
           ["@rollup/rollup-linux-x64-gnu", "npm:4.9.5"],\
           ["@tailwindcss/oxide-linux-x64-gnu", "npm:4.1.5"],\
@@ -443,6 +443,13 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../.yarn/berry/cache/@eslint-js-npm-9.26.0-526664c6ef-10c0.zip/node_modules/@eslint/js/",\
         "packageDependencies": [\
           ["@eslint/js", "npm:9.26.0"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:9.27.0", {\
+        "packageLocation": "../../.yarn/berry/cache/@eslint-js-npm-9.27.0-c4546013df-10c0.zip/node_modules/@eslint/js/",\
+        "packageDependencies": [\
+          ["@eslint/js", "npm:9.27.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4530,7 +4537,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["root-workspace-0b6124", "workspace:."],\
-          ["@eslint/js", "npm:9.26.0"],\
+          ["@eslint/js", "npm:9.27.0"],\
           ["@inertiajs/vue3", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.0.8"],\
           ["@rollup/rollup-linux-x64-gnu", "npm:4.9.5"],\
           ["@tailwindcss/oxide-linux-x64-gnu", "npm:4.1.5"],\
